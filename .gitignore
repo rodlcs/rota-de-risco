@@ -1,0 +1,5 @@
+datatran*.csv
+pbi_*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/

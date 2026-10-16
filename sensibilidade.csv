@@ -1,0 +1,5 @@
+﻿cenario;trechos_elegiveis;trechos_criticos;criticos_avaliaveis;taxa_criticos_def_%;taxa_criticos_teste_%;media_nacional_teste_%;excesso_mantido_%;acima_da_media_%;continuam_criticos_%;spearman;criticos_do_atual_mantidos_%
+Atual (n>=20);2229;132;118;49.1;41.7;28.2;65;93;10;0.53;100
+Corte menor (n>=10);3519;207;183;51.7;43.8;28.2;67;93;9;0.46;100
+Corte maior (n>=30);1594;96;85;47.4;40.2;28.2;63;93;11;0.58;100
+So mortes (n>=20);2229;29;23;29.1;20.6;7.2;61;96;4;0.36;14
